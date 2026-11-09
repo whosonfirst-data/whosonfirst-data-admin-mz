@@ -47,7 +47,7 @@
         "wk:page":"Macuse"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"dc692ce9102a2a4c05d10294605baed1",
+    "wof:geomhash":"3004cc7bf7f4044984cdd21e926e9527",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     37.18944000000001,
     -17.70694
 ],
-  "geometry": {"coordinates":[37.18944000000001,-17.70694],"type":"Point"}
+  "geometry": {"coordinates":[37.18944,-17.70694],"type":"Point"}
 }

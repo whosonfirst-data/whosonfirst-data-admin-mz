@@ -47,7 +47,7 @@
         "wk:page":"Chupanga"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"72cece217a3891b621da9cdc600e742e",
+    "wof:geomhash":"2256f1f3808c108297a1cec219998664",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,5 +73,5 @@
     35.56417000000001,
     -18.02111
 ],
-  "geometry": {"coordinates":[35.56417000000001,-18.02111],"type":"Point"}
+  "geometry": {"coordinates":[35.56417,-18.02111],"type":"Point"}
 }

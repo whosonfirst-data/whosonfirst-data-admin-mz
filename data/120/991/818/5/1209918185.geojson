@@ -45,7 +45,7 @@
         "wk:page":"Macaia"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"37b6b3ad64044c8cc964e7b25629160c",
+    "wof:geomhash":"9e9ba9acba247a2daf63e85f15e22ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     39.89194000000001,
     -12.94889
 ],
-  "geometry": {"coordinates":[39.89194000000001,-12.94889],"type":"Point"}
+  "geometry": {"coordinates":[39.89194,-12.94889],"type":"Point"}
 }

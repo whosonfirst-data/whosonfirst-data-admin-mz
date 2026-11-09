@@ -45,7 +45,7 @@
         "wk:page":"Malapua"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"fe29bce01c65db7395d3ed2bdfd5a7b0",
+    "wof:geomhash":"f341a238b375a09ada38320ed5cb4690",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     39.82167000000001,
     -12.97167
 ],
-  "geometry": {"coordinates":[39.82167000000001,-12.97167],"type":"Point"}
+  "geometry": {"coordinates":[39.82167,-12.97167],"type":"Point"}
 }

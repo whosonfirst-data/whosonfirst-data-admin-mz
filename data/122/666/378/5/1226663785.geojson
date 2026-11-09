@@ -42,7 +42,7 @@
         "wk:page":"Biaque"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"c2712b376b112526c9e217d932100df6",
+    "wof:geomhash":"a89ecc4e4bc8a87afc4ebf2d6f5a9c75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     39.94889000000001,
     -12.86278
 ],
-  "geometry": {"coordinates":[39.94889000000001,-12.86278],"type":"Point"}
+  "geometry": {"coordinates":[39.94889,-12.86278],"type":"Point"}
 }

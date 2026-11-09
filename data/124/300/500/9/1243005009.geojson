@@ -58,7 +58,7 @@
         "wk:page":"Nhamatanda"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"3cdbb2187a3ece511510299318c423c6",
+    "wof:geomhash":"bdd80579e81b0def7c2191fc7056aa22",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,5 +84,5 @@
     34.21278,
     -19.26917000000001
 ],
-  "geometry": {"coordinates":[34.21278,-19.26917000000001],"type":"Point"}
+  "geometry": {"coordinates":[34.21278,-19.26917],"type":"Point"}
 }

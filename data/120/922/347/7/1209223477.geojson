@@ -39,7 +39,7 @@
         "wk:page":"Salane"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"694aa574d74d8371f48d2683967c2b56",
+    "wof:geomhash":"7b313852ee35b6521e3bbeda29514a1d",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -62,5 +62,5 @@
     31.39417000000001,
     -22.44361
 ],
-  "geometry": {"coordinates":[31.39417000000001,-22.44361],"type":"Point"}
+  "geometry": {"coordinates":[31.39417,-22.44361],"type":"Point"}
 }

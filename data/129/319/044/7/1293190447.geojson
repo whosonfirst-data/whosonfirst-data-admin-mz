@@ -42,7 +42,7 @@
         "wk:page":"Chindio"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"b47924b22089d378afd6610a9c69bc5c",
+    "wof:geomhash":"0d3ed60edf2f66ce08dedac1f0192826",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     35.43389000000001,
     -16.31917
 ],
-  "geometry": {"coordinates":[35.43389000000001,-16.31917],"type":"Point"}
+  "geometry": {"coordinates":[35.43389,-16.31917],"type":"Point"}
 }

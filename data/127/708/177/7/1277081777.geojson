@@ -41,7 +41,7 @@
         "gn:id":1102321
     },
     "wof:country":"MZ",
-    "wof:geomhash":"2f0407ec4cdf54c83fb60cfde5583901",
+    "wof:geomhash":"ee413b6f4f1495dc908ecbda836cefc4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     34.34305999999999,
     -21.78167
 ],
-  "geometry": {"coordinates":[34.34305999999999,-21.78167],"type":"Point"}
+  "geometry": {"coordinates":[34.34306,-21.78167],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Ametina"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"ab0adad0b580a1f1d26fb31a5bf32ee4",
+    "wof:geomhash":"2647b1e62c9f773ac2bbb25c127133ff",
     "wof:hierarchy":[
         {
             "country_id":85632729,
@@ -68,5 +68,5 @@
     39.81639000000001,
     -13.27278
 ],
-  "geometry": {"coordinates":[39.81639000000001,-13.27278],"type":"Point"}
+  "geometry": {"coordinates":[39.81639,-13.27278],"type":"Point"}
 }

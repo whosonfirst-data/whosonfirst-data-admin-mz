@@ -51,7 +51,7 @@
         "wk:page":"Balama"
     },
     "wof:country":"MZ",
-    "wof:geomhash":"6ef251afe3aa226dca06098761f72ece",
+    "wof:geomhash":"2de8078ff5460488e9240f04f8df224f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     38.56939000000001,
     -13.34478
 ],
-  "geometry": {"coordinates":[38.56939000000001,-13.34478],"type":"Point"}
+  "geometry": {"coordinates":[38.56939,-13.34478],"type":"Point"}
 }
