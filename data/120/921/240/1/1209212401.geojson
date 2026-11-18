@@ -89,12 +89,6 @@
     "name:war_x_preferred":[
         "Chico"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5947\u79d1\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5947\u79d1\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632729
@@ -112,7 +106,7 @@
         }
     ],
     "wof:id":1209212401,
-    "wof:lastmodified":1636501802,
+    "wof:lastmodified":1794999722,
     "wof:name":"Chico",
     "wof:parent_id":85632729,
     "wof:placetype":"locality",

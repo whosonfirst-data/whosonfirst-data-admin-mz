@@ -90,12 +90,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Ligonha"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5229\u6208\u5c3c\u4e9a\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5229\u6208\u5c3c\u4e9e\u6cb3"
-    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mozambique",
     "ne:ADM0_A3":"MOZ",
@@ -213,7 +207,7 @@
         }
     ],
     "wof:id":1141907153,
-    "wof:lastmodified":1636501826,
+    "wof:lastmodified":1794999722,
     "wof:name":"Ligonha",
     "wof:parent_id":1091701415,
     "wof:placetype":"locality",
