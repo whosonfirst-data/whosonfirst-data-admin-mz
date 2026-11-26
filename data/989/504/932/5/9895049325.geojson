@@ -1,0 +1,74 @@
+{
+  "id": 9895049325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.22394,-19.15626,34.22394,-19.15626",
+    "geom:latitude":-19.15626,
+    "geom:longitude":34.22394,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1097182: name \"Amerim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1097182"
+        },
+        {
+            "citation":"GeoNames populated place 1097182: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1097182"
+        },
+        {
+            "citation":"GeoNames populated place 1097182: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1097182"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091701119 (Nhamatanda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674835,
+        102191573,
+        1091701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1097182
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"0491164593d6c614aa1f006e65f0361d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701119,
+            "locality_id":9895049325,
+            "region_id":85674835
+        }
+    ],
+    "wof:id":9895049325,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Amerim",
+    "wof:parent_id":1091701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22394,
+    -19.15626,
+    34.22394,
+    -19.15626
+],
+  "geometry": {"coordinates":[34.22394,-19.15626],"type":"Point"}
+}

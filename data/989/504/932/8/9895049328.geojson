@@ -1,0 +1,74 @@
+{
+  "id": 9895049328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13515,-22.85427,32.13515,-22.85427",
+    "geom:latitude":-22.85427,
+    "geom:longitude":32.13515,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1100430: name \"R\u00e9gua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1100430"
+        },
+        {
+            "citation":"GeoNames populated place 1100430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1100430"
+        },
+        {
+            "citation":"GeoNames populated place 1100430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1100430"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696621 (Chicualacuala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674831,
+        102191573,
+        1091696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1100430
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"190cb09d111f5de28d2f8257a24638c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696621,
+            "locality_id":9895049328,
+            "region_id":85674831
+        }
+    ],
+    "wof:id":9895049328,
+    "wof:lastmodified":1795735143,
+    "wof:name":"R\u00e9gua",
+    "wof:parent_id":1091696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13515,
+    -22.85427,
+    32.13515,
+    -22.85427
+],
+  "geometry": {"coordinates":[32.13515,-22.85427],"type":"Point"}
+}

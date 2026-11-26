@@ -1,0 +1,74 @@
+{
+  "id": 9895049340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98928,-14.10295,32.98928,-14.10295",
+    "geom:latitude":-14.10295,
+    "geom:longitude":32.98928,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176069: name \"Miss\u00e1le\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176069"
+        },
+        {
+            "citation":"GeoNames populated place 12176069: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176069"
+        },
+        {
+            "citation":"GeoNames populated place 12176069: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176069"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696659 (Chifunde), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674811,
+        102191573,
+        1091696659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176069
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d719401f14c58f8890c22b6f9b15bb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696659,
+            "locality_id":9895049340,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":9895049340,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Miss\u00e1le",
+    "wof:parent_id":1091696659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98928,
+    -14.10295,
+    32.98928,
+    -14.10295
+],
+  "geometry": {"coordinates":[32.98928,-14.10295],"type":"Point"}
+}

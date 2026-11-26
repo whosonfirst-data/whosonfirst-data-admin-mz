@@ -1,0 +1,74 @@
+{
+  "id": 9895049329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43447,-21.72173,35.43447,-21.72173",
+    "geom:latitude":-21.72173,
+    "geom:longitude":35.43447,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695764: name \"Indigo Bay Lodge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695764"
+        },
+        {
+            "citation":"GeoNames populated place 11695764: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695764"
+        },
+        {
+            "citation":"GeoNames populated place 11695764: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695764"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091698063 (Inhassoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674845,
+        102191573,
+        1091698063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695764
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"e94ae5048caa2e39fd4523858d65a64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091698063,
+            "locality_id":9895049329,
+            "region_id":85674845
+        }
+    ],
+    "wof:id":9895049329,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Indigo Bay Lodge",
+    "wof:parent_id":1091698063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43447,
+    -21.72173,
+    35.43447,
+    -21.72173
+],
+  "geometry": {"coordinates":[35.43447,-21.72173],"type":"Point"}
+}

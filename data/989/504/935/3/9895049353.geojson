@@ -1,0 +1,74 @@
+{
+  "id": 9895049353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.18839,-13.12506,40.18839,-13.12506",
+    "geom:latitude":-13.12506,
+    "geom:longitude":40.18839,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405968: name \"Nipataco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405968"
+        },
+        {
+            "citation":"GeoNames populated place 13405968: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405968"
+        },
+        {
+            "citation":"GeoNames populated place 13405968: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405968"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091699683 (Mecufi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674817,
+        102191573,
+        1091699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405968
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"7ba3f158a96ae1ef702e00fea273f49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699683,
+            "locality_id":9895049353,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":9895049353,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Nipataco",
+    "wof:parent_id":1091699683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.18839,
+    -13.12506,
+    40.18839,
+    -13.12506
+],
+  "geometry": {"coordinates":[40.18839,-13.12506],"type":"Point"}
+}
