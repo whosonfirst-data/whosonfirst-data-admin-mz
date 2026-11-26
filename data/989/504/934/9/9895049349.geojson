@@ -1,0 +1,75 @@
+{
+  "id": 9895049349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80038,-25.16047,32.80038,-25.16047",
+    "geom:latitude":-25.16047,
+    "geom:longitude":32.80038,
+    "gn:population":11534,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718701: name \"Xinavane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718701"
+        },
+        {
+            "citation":"GeoNames populated place 12718701: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718701"
+        },
+        {
+            "citation":"GeoNames populated place 12718701: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718701"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091699015 (Manhica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674849,
+        102191573,
+        1091699015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718701
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"b7be9f7710ec3751a17e0eb0e13911a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699015,
+            "locality_id":9895049349,
+            "region_id":85674849
+        }
+    ],
+    "wof:id":9895049349,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Xinavane",
+    "wof:parent_id":1091699015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80038,
+    -25.16047,
+    32.80038,
+    -25.16047
+],
+  "geometry": {"coordinates":[32.80038,-25.16047],"type":"Point"}
+}

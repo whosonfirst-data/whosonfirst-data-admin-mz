@@ -1,0 +1,74 @@
+{
+  "id": 9895049352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02964,-11.5104,40.02964,-11.5104",
+    "geom:latitude":-11.5104,
+    "geom:longitude":40.02964,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405922: name \"Oasse\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405922"
+        },
+        {
+            "citation":"GeoNames populated place 13405922: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405922"
+        },
+        {
+            "citation":"GeoNames populated place 13405922: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405922"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091700013 (Mocimboa da Praia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674817,
+        102191573,
+        1091700013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405922
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"bf8e405426f7e3b2dfd7dd32eb34d2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091700013,
+            "locality_id":9895049352,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":9895049352,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Oasse",
+    "wof:parent_id":1091700013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02964,
+    -11.5104,
+    40.02964,
+    -11.5104
+],
+  "geometry": {"coordinates":[40.02964,-11.5104],"type":"Point"}
+}

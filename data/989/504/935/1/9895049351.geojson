@@ -1,0 +1,74 @@
+{
+  "id": 9895049351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.38377,-12.99609,40.38377,-12.99609",
+    "geom:latitude":-12.99609,
+    "geom:longitude":40.38377,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405914: name \"Namuapala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405914"
+        },
+        {
+            "citation":"GeoNames populated place 13405914: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405914"
+        },
+        {
+            "citation":"GeoNames populated place 13405914: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405914"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091701325 (Pemba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674817,
+        102191573,
+        1091701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405914
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"9b1610a439d274f94996c2c94d5d0f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091701325,
+            "locality_id":9895049351,
+            "region_id":85674817
+        }
+    ],
+    "wof:id":9895049351,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Namuapala",
+    "wof:parent_id":1091701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.38377,
+    -12.99609,
+    40.38377,
+    -12.99609
+],
+  "geometry": {"coordinates":[40.38377,-12.99609],"type":"Point"}
+}

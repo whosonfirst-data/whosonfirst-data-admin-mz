@@ -1,0 +1,74 @@
+{
+  "id": 9895049341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0806,-14.10347,33.0806,-14.10347",
+    "geom:latitude":-14.10347,
+    "geom:longitude":33.0806,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12181834: name \"Nkatha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12181834"
+        },
+        {
+            "citation":"GeoNames populated place 12181834: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12181834"
+        },
+        {
+            "citation":"GeoNames populated place 12181834: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12181834"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091696659 (Chifunde), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674811,
+        102191573,
+        1091696659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12181834
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"1ff23b0cb37d64984dd224aa182a5199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091696659,
+            "locality_id":9895049341,
+            "region_id":85674811
+        }
+    ],
+    "wof:id":9895049341,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Nkatha",
+    "wof:parent_id":1091696659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0806,
+    -14.10347,
+    33.0806,
+    -14.10347
+],
+  "geometry": {"coordinates":[33.0806,-14.10347],"type":"Point"}
+}

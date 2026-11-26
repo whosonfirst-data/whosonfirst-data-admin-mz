@@ -1,0 +1,75 @@
+{
+  "id": 9895049346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08226,-18.99161,33.08226,-18.99161",
+    "geom:latitude":-18.99161,
+    "geom:longitude":33.08226,
+    "gn:population":15907,
+    "iso:country":"MZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718697: name \"Messica\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718697"
+        },
+        {
+            "citation":"GeoNames populated place 12718697: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718697"
+        },
+        {
+            "citation":"GeoNames populated place 12718697: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718697"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091699043 (Manica), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632729,
+        85674815,
+        102191573,
+        1091699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718697
+    },
+    "wof:country":"MZ",
+    "wof:geomhash":"d1b089dfdf998352d54c37002422b7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632729,
+            "county_id":1091699043,
+            "locality_id":9895049346,
+            "region_id":85674815
+        }
+    ],
+    "wof:id":9895049346,
+    "wof:lastmodified":1795735143,
+    "wof:name":"Messica",
+    "wof:parent_id":1091699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08226,
+    -18.99161,
+    33.08226,
+    -18.99161
+],
+  "geometry": {"coordinates":[33.08226,-18.99161],"type":"Point"}
+}
